@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/tank/lijie/code/XServer/build/release-cpp11/base",
+  "command": "/usr/bin/c++    -I/home/tank/lijie/code/XServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/XServer_base.dir/Date.cc.o -c /home/tank/lijie/code/XServer/base/Date.cc",
+  "file": "/home/tank/lijie/code/XServer/base/Date.cc"
+},
+{
+  "directory": "/home/tank/lijie/code/XServer/build/release-cpp11/base",
+  "command": "/usr/bin/c++    -I/home/tank/lijie/code/XServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/XServer_base.dir/TimeZone.cc.o -c /home/tank/lijie/code/XServer/base/TimeZone.cc",
+  "file": "/home/tank/lijie/code/XServer/base/TimeZone.cc"
+},
+{
+  "directory": "/home/tank/lijie/code/XServer/build/release-cpp11/base/tests",
+  "command": "/usr/bin/c++    -I/home/tank/lijie/code/XServer  -g -DCHECK_PTHREAD_RETURN_VALUE -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Werror -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++11 -rdynamic -O2 -DNDEBUG   -o CMakeFiles/date_unittest.dir/Date_unittest.cc.o -c /home/tank/lijie/code/XServer/base/tests/Date_unittest.cc",
+  "file": "/home/tank/lijie/code/XServer/base/tests/Date_unittest.cc"
+}
+]

@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libXServer_base.a  CMakeFiles/XServer_base.dir/Date.cc.o CMakeFiles/XServer_base.dir/TimeZone.cc.o
+/usr/bin/ranlib ../lib/libXServer_base.a

@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../..//base/Date.h
+base/copyable.h
+../../base/base/copyable.h
+base/Types.h
+../../base/base/Types.h
+
+../..//base/Types.h
+stdint.h
+-
+string.h
+-
+string
+-
+assert.h
+-
+
+../..//base/copyable.h
+
+/home/tank/lijie/code/XServer/base/tests/Date_unittest.cc
+base/Date.h
+/home/tank/lijie/code/XServer/base/tests/base/Date.h
+assert.h
+-
+stdio.h
+-
+
